@@ -1,0 +1,15 @@
+ISM VOTES APP
+
+Agents système : 
+    - Candidats
+    - User
+    
+Fonctionnalités : 
+	User peut : 
+		-	Postuler      			    X	VV
+		-	Lister les candidats		X 	VV
+		-	Voter pour un candidat.     X	VV
+		-	Supprimer son vote 	        X	VV
+	
+	Candidat peut : 
+		-	Retirer sa candidature.     X	VV
